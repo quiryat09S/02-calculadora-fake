@@ -1,4 +1,4 @@
-Calculadora fake 100% no real 
+Calculadora fake 
 ---
 
 ### Funcion suma
