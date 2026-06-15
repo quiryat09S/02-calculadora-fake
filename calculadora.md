@@ -24,3 +24,4 @@ Calculadora fake 100% no real
 ### Funcion raiz cuadrada
 
 ---
+### Notas: las funciones son fake
